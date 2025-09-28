@@ -74,34 +74,44 @@ Repository: [harshharsha17/SQL-for-Data-Analysis](https://github.com/harshharsha
 
 ## 📸 Query Outputs
 
-**Q1: Sales on 2022-11-05**  
+**Q1: Sales on 2022-11-05**
+
 ![Query 1 Output](Query1.png)
 
 **Q2: Clothing category with quantity > 4 in Nov-2022**  
+
 ![Query 2 Output](Query2.png)
 
 **Q3: Total sales per category**  
+
 ![Query 3 Output](Query3.png)
 
 **Q4: Average age of Beauty category customers**  
+
 ![Query 4 Output](Query4.png)
 
 **Q5: Transactions with total_sale > 1000**  
+
 ![Query 5 Output](Query5.png)
 
 **Q6: Transactions by gender per category**  
+
 ![Query 6 Output](Query6.png)
 
 **Q7: Best selling month per year**  
+
 ![Query 7 Output](Query7.png)
 
 **Q8: Top 5 customers based on total sales**  
+
 ![Query 8 Output](Query8.png)
 
 **Q9: Unique customers per category**  
+
 ![Query 9 Output](Query9.png)
 
 **Q10: Orders distribution by shift (Morning, Afternoon, Evening)**  
+
 ![Query 10 Output](Query10.png)
 
 ---
